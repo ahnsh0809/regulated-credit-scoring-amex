@@ -1,2 +1,2 @@
 # regulated-credit-scoring-amex
-Credit default prediction project using explainable and monotonic machine learning models.
+Regulated Credit Scoring with Explainable and Monotonic Machine Learning
